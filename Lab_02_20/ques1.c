@@ -37,4 +37,5 @@ int main() {
     printf("Average Turnaround Time: %.2f\n", atat/n);
     return 0;
 }
+// program of FCFS Scheduling algorithm implementation of CT, TAT, WT and averages calculate.
 
