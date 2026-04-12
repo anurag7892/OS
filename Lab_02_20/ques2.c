@@ -24,3 +24,4 @@ int main()
     }
     return 0;
 }
+// Yeh program FCFS scheduling hai jisme har process ke beech fixed delay (context switching time = 2) add kiya gaya hai.
