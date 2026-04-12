@@ -52,6 +52,6 @@ int main() {
 
     return 0;
 }
-
+// Yeh program 2 child processes bana kar array ke do parts me even numbers ka sum parallel calculate karta hai.
 
 
